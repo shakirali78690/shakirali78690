@@ -34,6 +34,14 @@ A massive full-stack streaming ecosystem capable of handling immense libraries o
 </div>
 
 <br/>
+<br/>
+<div align="center">
+  <a href="https://github.com/shakirali78690/StreamVault">
+    <img src="https://raw.githubusercontent.com/shakirali78690/StreamVault/main/client/public/streamvault-logo-glow.png" width="300" alt="StreamVault Logo"/>
+  </a>
+</div>
+
+<br/>
 
 ## 🛠️ THE PRODUCTION CREW
 
